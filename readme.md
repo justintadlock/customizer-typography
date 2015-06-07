@@ -14,3 +14,7 @@ This plugin creates a "Typography" panel in the customizer.  It lets you set som
 This is a developer tool.
 
 I'll write more here later. :)
+
+## Screenshots
+
+![Customizer Typography Plugin Preview](https://raw.githubusercontent.com/justintadlock/customizer-typography/master/screenshot-1.png)
