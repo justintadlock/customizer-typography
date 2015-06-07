@@ -1,0 +1,24 @@
+
+.customize-control-typography ul {}
+
+	.customize-control-typography li.typography-font-weight,
+	.customize-control-typography li.typography-font-style,
+	.customize-control-typography li.typography-font-size,
+	.customize-control-typography li.typography-line-height {
+		float: left;
+		width: 50%;
+	}
+
+		.customize-control-typography li.typography-font-weight select,
+		.customize-control-typography li.typography-font-style select {
+			width: 90%;
+		}
+
+	.customize-control-typography li.typography-font-weight,
+	.customize-control-typography li.typography-font-size {
+		clear: both;
+	}
+		.customize-control-typography li.typography-font-size input,
+		.customize-control-typography li.typography-line-height input {
+			width: 75px;
+		}
